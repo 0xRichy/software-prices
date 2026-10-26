@@ -1,0 +1,59 @@
+tool,plan,price,currency,price_type,unit,annual_billing_per_month,free_plan,checked_on,vendor_pricing_page,record
+Adobe Acrobat,Standard,30.24,EUR,month_to_month,account,18.14,no,2026-10-25,https://www.adobe.com/fr/acrobat/plans.html,https://theplainstack.com/tools/acrobat/
+Airtable,Team,24,USD,month_to_month,seat,20,yes,2026-10-25,https://airtable.com/pricing,https://theplainstack.com/tools/airtable/
+Asana,Starter,13.49,EUR,month_to_month,seat,10.99,yes,2026-10-25,https://asana.com/fr/pricing,https://theplainstack.com/tools/asana/
+Beautiful.ai,Pro,14.5,USD,monthly_equivalent_of_annual_commitment,account,,no,2026-10-25,https://www.beautiful.ai/pricing,https://theplainstack.com/tools/beautifulai/
+Buffer,Essentials,6,USD,month_to_month,channel,5,yes,2026-10-25,https://buffer.com/pricing,https://theplainstack.com/tools/buffer/
+Calendly,Standard,12,USD,month_to_month,seat,10,yes,2026-10-25,https://calendly.com/pricing,https://theplainstack.com/tools/calendly/
+Canva,Pro,12,EUR,month_to_month,account,,yes,2026-10-25,https://www.canva.com/fr_fr/tarification/,https://theplainstack.com/tools/canva/
+Capsule CRM,Starter,19,EUR,month_to_month,seat,15,yes,2026-10-25,https://capsulecrm.com/pricing/,https://theplainstack.com/tools/capsule/
+ChatGPT,Plus,23,EUR,month_to_month,account,,yes,2026-10-25,https://chatgpt.com/pricing,https://theplainstack.com/tools/chatgpt/
+Claap,Pro,30,EUR,month_to_month,seat,24,yes,2026-10-25,https://www.claap.io/pricing,https://theplainstack.com/tools/claap/
+Claude,Pro,18,EUR,month_to_month,account,15,yes,2026-10-25,https://claude.com/fr/pricing,https://theplainstack.com/tools/claude/
+ClickUp,Unlimited,10,USD,month_to_month,seat,7,yes,2026-10-25,https://clickup.com/pricing,https://theplainstack.com/tools/clickup/
+Copy.ai,Chat,29,USD,month_to_month,account,24,no,2026-10-25,https://www.copy.ai/prices,https://theplainstack.com/tools/copyai/
+DeepL,Individual,8.99,EUR,month_to_month,account,,yes,2026-10-25,https://www.deepl.com/pro,https://theplainstack.com/tools/deepl/
+Descript,Hobbyist,24,USD,month_to_month,account,16,yes,2026-10-25,https://www.descript.com/pricing,https://theplainstack.com/tools/descript/
+ElevenLabs,Starter,6,USD,month_to_month,account,,yes,2026-10-25,https://elevenlabs.io/pricing,https://theplainstack.com/tools/elevenlabs/
+Fathom,Premium,20,USD,month_to_month,account,16,yes,2026-10-25,https://fathom.ai/pricing,https://theplainstack.com/tools/fathom/
+Figma,Professional,20,EUR,month_to_month,seat,16,yes,2026-10-25,https://www.figma.com/fr-fr/pricing/,https://theplainstack.com/tools/figma/
+Fireflies.ai,Pro,18,USD,month_to_month,seat,10,yes,2026-10-25,https://fireflies.ai/pricing,https://theplainstack.com/tools/fireflies/
+Foxit PDF Editor,PDF Editor,16.99,EUR,month_to_month,seat,10.96,no,2026-10-25,https://www.foxit.com/fr/shopping/,https://theplainstack.com/tools/foxit/
+Framer,Basic,15,EUR,month_to_month,site,10,yes,2026-10-26,https://www.framer.com/pricing,https://theplainstack.com/tools/framer/
+Gamma,Plus,10,EUR,month_to_month,seat,8,yes,2026-10-25,https://gamma.app/fr/pricing,https://theplainstack.com/tools/gamma/
+Gemini,Google AI Plus,4.99,EUR,month_to_month,account,,yes,2026-10-25,https://one.google.com/about/google-ai-plans/,https://theplainstack.com/tools/gemini/
+Grammarly,Pro,12,EUR,month_to_month,account,,yes,2026-10-25,https://www.grammarly.com/plans,https://theplainstack.com/tools/grammarly/
+HeyGen,Creator,29,USD,month_to_month,account,,yes,2026-10-25,https://www.heygen.com/pricing,https://theplainstack.com/tools/heygen/
+Hootsuite,Standard,99,EUR,monthly_equivalent_of_annual_commitment,seat,,no,2026-10-25,https://www.hootsuite.com/plans,https://theplainstack.com/tools/hootsuite/
+HubSpot,Starter,10,EUR,month_to_month,seat,,yes,2026-10-25,https://www.hubspot.fr/pricing/,https://theplainstack.com/tools/hubspot/
+iLovePDF,Premium,9,EUR,month_to_month,seat,5,yes,2026-10-25,https://www.ilovepdf.com/fr/prix,https://theplainstack.com/tools/ilovepdf/
+Jasper,Pro,69,USD,month_to_month,account,59,no,2026-10-25,https://www.jasper.ai/pricing,https://theplainstack.com/tools/jasper/
+Krisp,Core,16,USD,month_to_month,seat,8,no,2026-10-25,https://krisp.ai/pricing/,https://theplainstack.com/tools/krisp/
+Later,Starter,25,USD,month_to_month,account,18.75,no,2026-10-25,https://later.com/pricing/,https://theplainstack.com/tools/later/
+Linear,Basic,12,USD,month_to_month,seat,10,yes,2026-10-26,https://linear.app/pricing,https://theplainstack.com/tools/linear/
+Loom,Business,18,USD,month_to_month,seat,,yes,2026-10-25,https://www.loom.com/pricing,https://theplainstack.com/tools/loom/
+Make,Core,10.59,USD,month_to_month,account,9,yes,2026-10-25,https://www.make.com/en/pricing,https://theplainstack.com/tools/make/
+MeetGeek,Pro,15.99,USD,month_to_month,seat,9.99,yes,2026-10-25,https://meetgeek.ai/pricing,https://theplainstack.com/tools/meetgeek/
+Metricool,Starter,20,EUR,month_to_month,brand,16,yes,2026-10-25,https://metricool.com/pricing/,https://theplainstack.com/tools/metricool/
+Microsoft 365 Copilot,Microsoft 365 Copilot Business,21.84,EUR,month_to_month,seat,,no,2026-10-25,https://www.microsoft.com/fr-fr/microsoft-365-copilot/pricing,https://theplainstack.com/tools/copilot/
+Midjourney,Basic Plan,10,USD,month_to_month,account,8,no,2026-10-25,https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans,https://theplainstack.com/tools/midjourney/
+Miro,Starter,10,EUR,month_to_month,seat,8,yes,2026-10-25,https://miro.com/pricing/,https://theplainstack.com/tools/miro/
+Mistral,Pro,14.99,USD,month_to_month,account,,yes,2026-10-25,https://mistral.ai/pricing,https://theplainstack.com/tools/mistral/
+monday.com,Basique,12,EUR,month_to_month,seat,9,yes,2026-10-25,https://monday.com/pricing,https://theplainstack.com/tools/monday/
+Murf AI,Creator,29,USD,month_to_month,account,19,yes,2026-10-25,https://murf.ai/pricing,https://theplainstack.com/tools/murf/
+n8n,Starter,24,EUR,month_to_month,account,20,yes,2026-10-25,https://n8n.io/pricing/,https://theplainstack.com/tools/n8n/
+Notion,Plus,11.5,EUR,month_to_month,seat,9.5,yes,2026-10-25,https://www.notion.com/pricing,https://theplainstack.com/tools/notion/
+Otter.ai,Pro,16.99,USD,month_to_month,seat,8.33,yes,2026-10-25,https://otter.ai/pricing,https://theplainstack.com/tools/otter/
+Perplexity,Pro,17,USD,monthly_equivalent_of_annual_commitment,account,,yes,2026-10-25,https://www.perplexity.ai/pro,https://theplainstack.com/tools/perplexity/
+Pipedrive,Lite,24,EUR,month_to_month,seat,14,no,2026-10-25,https://www.pipedrive.com/fr/pricing,https://theplainstack.com/tools/pipedrive/
+Prezi,Standard,5,EUR,monthly_equivalent_of_annual_commitment,account,,yes,2026-10-25,https://prezi.com/pricing/,https://theplainstack.com/tools/prezi/
+Slack,Pro,8.25,EUR,month_to_month,seat,7.25,yes,2026-10-25,https://slack.com/intl/fr-fr/pricing,https://theplainstack.com/tools/slack/
+Smallpdf,Pro,10,EUR,month_to_month,account,7.5,yes,2026-10-25,https://smallpdf.com/fr/pricing,https://theplainstack.com/tools/smallpdf/
+SocialBee,Bootstrap,29,USD,month_to_month,account,24.17,no,2026-10-25,https://socialbee.com/pricing/,https://theplainstack.com/tools/socialbee/
+Synthesia,Starter,19,EUR,month_to_month,account,12,yes,2026-10-25,https://www.synthesia.io/pricing,https://theplainstack.com/tools/synthesia/
+Todoist,Pro,7,EUR,month_to_month,account,5,yes,2026-10-25,https://www.todoist.com/fr/pricing,https://theplainstack.com/tools/todoist/
+Toggl Track,Starter,12,EUR,month_to_month,seat,9,yes,2026-10-25,https://toggl.com/pricing,https://theplainstack.com/tools/toggl/
+Trello,Standard,6,USD,month_to_month,seat,5,yes,2026-10-25,https://trello.com/pricing,https://theplainstack.com/tools/trello/
+Vista Social,Professional,99,USD,month_to_month,account,80,no,2026-10-25,https://vistasocial.com/pricing/,https://theplainstack.com/tools/vistasocial/
+Writesonic,Starter,99,USD,month_to_month,account,79,no,2026-10-25,https://writesonic.com/pricing,https://theplainstack.com/tools/writesonic/
+Zapier,Professional,29.99,USD,month_to_month,account,19.99,yes,2026-10-25,https://zapier.com/pricing,https://theplainstack.com/tools/zapier/

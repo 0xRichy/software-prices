@@ -1,0 +1,26 @@
+{
+  "name": "software-prices-small-teams",
+  "title": "Software prices for freelancers and small teams (dated)",
+  "homepage": "https://theplainstack.com/price-tracker/",
+  "licenses": [{ "name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0" }],
+  "sources": [{ "title": "The Plain Stack", "path": "https://theplainstack.com/" }],
+  "resources": [{
+    "name": "ai-tool-prices",
+    "path": "https://theplainstack.com/ai-tool-prices.csv",
+    "format": "csv",
+    "mediatype": "text/csv",
+    "schema": { "fields": [
+      { "name": "tool", "type": "string" },
+      { "name": "plan", "type": "string" },
+      { "name": "price", "type": "number" },
+      { "name": "currency", "type": "string", "constraints": { "enum": ["USD", "EUR"] } },
+      { "name": "price_type", "type": "string", "constraints": { "enum": ["month_to_month", "monthly_equivalent", "annual_total", "usage_based", "starting_from", "contact_sales"] } },
+      { "name": "unit", "type": "string" },
+      { "name": "annual_billing_per_month", "type": "number" },
+      { "name": "free_plan", "type": "string", "constraints": { "enum": ["yes", "no"] } },
+      { "name": "checked_on", "type": "date" },
+      { "name": "vendor_pricing_page", "type": "string", "format": "uri" },
+      { "name": "record", "type": "string", "format": "uri" }
+    ] }
+  }]
+}
